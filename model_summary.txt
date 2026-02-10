@@ -8,7 +8,7 @@ Training Samples: 440
 Test Samples: 110
 
 PERFORMANCE METRICS:
-  R-squared (R²): 0.7224
+  R-squared (R²): 0.7224 = 72.24%
   MSE: 7.2359
   RMSE: 2.6900
   MAE: 1.8930
