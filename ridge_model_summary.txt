@@ -20,7 +20,7 @@ DATASET OVERVIEW:
 MODEL PERFORMANCE METRICS:
 ================================================================================
 TRAINING SET:
-- R² Score: 0.9996
+- R² Score: 0.9996 = 99.66 %
 - Mean Squared Error: 0.0334
 - Root Mean Squared Error: 0.1827
 - Mean Absolute Error: 0.1443
