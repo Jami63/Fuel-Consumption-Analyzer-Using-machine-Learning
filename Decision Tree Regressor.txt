@@ -1,7 +1,7 @@
 ============================================================
 DecisionTreeRegressor (default parameters, random_state=42)
 ============================================================
-R²  = 0.6359
+R²  = 0.6359 = 63.59 %
 MAE = 1.56 mpg
 RMSE= 3.08 mpg
 
@@ -22,5 +22,6 @@ class_encoded              0.0052
 
 
 
-Train Score: 0.9952
-Test Score: 0.6359
+Train Score: 0.9952 = 99.52 %
+
+Test Score: 0.6359 = 63.59 %
