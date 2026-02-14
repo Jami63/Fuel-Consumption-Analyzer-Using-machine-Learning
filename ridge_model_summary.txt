@@ -26,7 +26,7 @@ TRAINING SET:
 - Mean Absolute Error: 0.1443
 
 TEST SET:
-- R² Score: 0.9982
+- R² Score: 0.9982 = 99.82 %
 - Mean Squared Error: 0.0479
 - Root Mean Squared Error: 0.2189
 - Mean Absolute Error: 0.1777
