@@ -1,0 +1,6 @@
+R² Score: 0.990 = 99 %
+RMSE: 0.51 mpg
+MAE: 0.06 mpg
+
+Train Score: 1.000 = 100 %
+Test Score: 0.990 = 99 %
